@@ -71,7 +71,7 @@ const Productlist = () => {
       queryId,
     };
 
-    fetch("http://localhost:8000", {
+    fetch("https://tg-webapp-nodejs.onrender.com/web-data", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
