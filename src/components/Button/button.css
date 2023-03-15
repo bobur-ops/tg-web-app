@@ -1,7 +1,7 @@
 .button {
   padding: 10px 15px;
-  background: var(--telegram-button-color);
-  color: var(--telegram-button-text-color);
+  background: blue;
+  color: white;
   border: none;
   outline: none;
   cursor: pointer;
